@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**yusrasohail002-a11y/yusrasohail002-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Usra S. 👋
 
-Here are some ideas to get you started:
+### AI Automation Developer | n8n | AI Agents | Chatbots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building intelligent automation systems that simplify business processes and reduce repetitive tasks.
+
+## 🚀 Skills & Technologies
+
+- n8n Workflow Automation
+- AI Agents & Chatbots
+- Google Gemini
+- API Integrations
+- JavaScript
+- Workflow Design
+- CRM Automation
+- Email Automation
+
+## 💼 Featured Projects
+
+### 1. AI Customer Support Automation
+AI-powered ticket classification and automated support routing.
+
+### 2. eCommerce Abandoned Cart Recovery
+Automated follow-ups, payment checks, and recovery workflows.
+
+### 3. AI-Powered RSS Content Automation
+RSS processing, AI content generation, and Airtable integration.
+
+### 4. AI Ticket Classification & CRM Automation
+Automated ticket processing, customer enrichment, and notifications.
+
+## 🎯 Currently Learning
+
+- Advanced n8n Automation
+- AI Agent Development
+- API Integrations
+- Business Process Automation
+
+## 📫 Connect With Me
+
+- GitHub: [My GitHub Profile](https://github.com/yusrasohail002-a11y)
+
+---
+
+⭐ Thanks for visiting my profile!
